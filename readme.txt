@@ -1,0 +1,1 @@
+you can directly opoen index.html and see the plugin in action.
